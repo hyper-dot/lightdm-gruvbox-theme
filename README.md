@@ -1,5 +1,5 @@
 # lightdm-gruvbox-theme
-Lightdm theme script specifically written for arch and arch based distro but can be used in any linux distribution
+Lightdm gtk greeter login screen install script written in shell script
 
 #### To install the theme follow the steps:
 
